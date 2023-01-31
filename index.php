@@ -1,0 +1,3 @@
+<?php
+
+echo "Programmas sākšana";
